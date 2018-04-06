@@ -5,4 +5,6 @@ typedef IconProps = {
 	?name:String,
 	?ios:String,
 	?android:String,
+	?size:Int,
+	?color:String,
 }
